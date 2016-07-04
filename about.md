@@ -1,15 +1,22 @@
 ---
+title: About Florian Engel
 layout: page
-title: About
-permalink: /about/
+permalink: "/about/"
+draft: true
 ---
+* Activist
+* Co-founder of more onion, manager
+* Product manager of Campaignion
+* Speaker
+* Strategist
+* Designer, UX designer, front-end developer
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Qualifications are:
+* Agile
+* Building user centred products
+* 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+According to a Nigerian oil exporter I'm an "agitator".
+I wear this badge with pride ever since. If you think about it I've not really done much to earn it though. All ever did was start an argument with a business man on a train ride to Brussels.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
