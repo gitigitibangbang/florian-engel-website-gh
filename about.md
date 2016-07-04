@@ -7,15 +7,16 @@ draft: true
 Hi!
 My name is Florian Engel.
 
-During the day I run a digital agency called more onion. At night I study, learn and break things in a never ending quest to reach the point in live where I feel like I actually know what I'm doing.
+During the day I run a digital agency called more onion. At night I study and learn (really I just break things) in a never ending quest to reach the point in live where I feel like I actually know what I'm doing.
 
-Over the years our company has turned into more of a startup incubator / accellerator with a social conscience, with offices in London, Berlin and Vienna. Throwing out new products and improving our existing tools for digital campaigning and online fundraising is a fun habit that also pays the rent.
+Over the years our company has turned into more of a startup incubator / accellerator with a social conscience, with offices in London, Berlin and Vienna. Throwing out new products as well as improving our existing tools for digital campaigning & online fundraising is a fun habit that also pays the rent.
 
 
 My short verison of a CV is:
+* Bored of reading or writing CVs (2015-now)
 * Co-founder of [more onion](http://www.more-onion.com), design & strategy lead, general manager (since 2009 - now)
-* Product manager of [Campaignion](http://www.campaignion.org), a tool for digital campaigning and online fundraising (since 2012)
-* Public Speaker (2009-now)
+* Product manager of [Campaignion](http://www.campaignion.org), a tool for digital campaigning and online fundraising (2012-now)
+* Public Speaker (2010-now)
 * Strategist, consultant for eCampaigning and Digital Fundraising (2010-now)
 * Designer, UX designer, Front-End Developer (2008-2013)
 * Spent a year in Auckland, New Zealand (2007)
