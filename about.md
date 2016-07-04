@@ -19,9 +19,12 @@ My name is Florian Engel.
 
 During the day I run a digital agency called more onion. At night I also run a digital agency called more onion.
 
-Over the years it has turned into more of a startup incubator / accellerator with a social conscience. Throwing out new products and improving our existing tools for digital campaigning and online fundraising has turned into a habit that also pays the rent.
+Over the years our company has turned into more of a startup incubator / accellerator with a social conscience. Throwing out new products and improving our existing tools for digital campaigning and online fundraising has turned into a habit that also pays the rent.
 
-I'm an activist with a passion to use digital tools and new forms of organising to make an impact. I believe in very basic ideas like social justice, not wracking the enviroment, not being a racist biggot and gender equality.
+According to a Nigerian oil exporter I'm an "agitator".
+I wear this badge with pride ever since. But really, I just believe in very basic ideas like social justice, not wracking the enviroment, not being a racist biggot, gender equality and... you know... basic decency.
+
+One of my passions is to use digital tools and new forms of organising to make an impact. 
 
 At this point I'm just running out of francy expressions to label what I do.
 Yes, I design interfaces, landing pages and craft brands at times. Does that make me a graphic designer?
@@ -32,7 +35,6 @@ Qualifications are:
 * Building user centred products
 * 
 
-According to a Nigerian oil exporter I'm an "agitator".
-I wear this badge with pride ever since. If you think about it I've not really done much to earn it though. All ever did was start an argument with a business man on a train ride to Brussels.
+
 
 
