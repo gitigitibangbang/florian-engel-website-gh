@@ -12,6 +12,7 @@ Over the years our company has turned into a number of startups, with offices in
 
 
 My short verison of a CV is:
+
 * Bored of reading and writing CVs (2015-now)
 * Co-founder of [more onion](http://www.more-onion.com), design & strategy lead, general manager (since 2009 - now)
 * Product manager of [Campaignion](http://www.campaignion.org), a tool for digital campaigning and online fundraising (2012-now)
@@ -23,6 +24,7 @@ My short verison of a CV is:
 
 
 Some of my qualifications are:
+
 * Agile management (Some experience with XP, Kanban, iterative delivery, managing teams)
 * Online Campaigning strategy, online fundraising and digital marketing
 * Product management, in particular getting minimal viable products out the door
